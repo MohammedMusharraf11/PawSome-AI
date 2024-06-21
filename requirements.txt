@@ -1,0 +1,17 @@
+streamlit
+streamlit-option-menu
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+streamlit
+pandas
+beautifulsoup4
+selenium
+webdriver-manager
+pyttsx3
+langchain-community
+requests
