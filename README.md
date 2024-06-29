@@ -49,4 +49,4 @@ To run this project locally, follow these steps:
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](https://github.com/MohammedMusharraf11/PawSome-AI/blob/main/LICENSE)
